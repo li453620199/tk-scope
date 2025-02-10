@@ -7,7 +7,7 @@ class Controller:
         pass
     def init(self, ui):
         """
-        得到UI实例，对组件进行初始化配置\1
+        得到UI实例，对组件进行初始化配置\
 
         """
         self.ui = ui
