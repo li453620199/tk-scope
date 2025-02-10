@@ -1,4 +1,4 @@
-
+#界面
 import random
 from tkinter import *
 from tkinter.ttk import *
