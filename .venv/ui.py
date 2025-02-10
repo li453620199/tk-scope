@@ -29,7 +29,7 @@ class WinGUI(Window):
         self.tk_button_getWaveform1 = self.__tk_button_getWaveform1(self)
         self.tk_label_frame_wave1 = self.__tk_label_frame_wave1(self)
     def __win(self):
-        self.title("Scope")
+        self.title("Scope1")
         # 设置窗口大小、居中
         width = 950
         height = 600
